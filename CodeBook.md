@@ -9,6 +9,7 @@ This variable will be one of the following 6 activity types:
 - WALKING
 - WALKING_DOWNSTAIRS
 - WALKING_UPSTAIRS
+
 This variable is the first column of the dataset.
 
 ## Variable "subject_id"
